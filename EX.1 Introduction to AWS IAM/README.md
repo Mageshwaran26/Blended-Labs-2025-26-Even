@@ -73,4 +73,4 @@ This lab provided hands-on experience with AWS IAM by demonstrating how organiza
 
 
 ## Author
-**Name:** AKSHAYA V A [212224040019]
+**Name:** Mageshwaran T.A [212224230146]
